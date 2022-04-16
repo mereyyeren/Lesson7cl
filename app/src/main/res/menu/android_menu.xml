@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:color="@color/white">
+
+    <item
+        android:id="@+id/samsungPhone"
+        android:title="Samsung"
+        />
+
+    <item
+        android:id="@+id/lgPhone"
+        android:title="LG" />
+
+    <item
+        android:id="@+id/huaweiPhone"
+        android:title="Huawei" />
+
+    <item
+        android:id="@+id/xiaomiPhone"
+        android:title="Xiaomi" />
+
+
+</menu>
